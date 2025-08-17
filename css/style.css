@@ -11,6 +11,11 @@ header {
     text-align: center;
 }
 
+h2 {
+    margin-top: 40px;   /* space above the header */
+    margin-bottom: 24px; /* space below the header */
+}
+
 nav a {
     color: white;
     margin: 0 15px;
